@@ -1,0 +1,1 @@
+export const IRREGULAR_VERB_ENDPOINT = `./public/data/source.json`;
